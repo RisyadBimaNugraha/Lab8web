@@ -5,11 +5,13 @@
 <br>
 <b>XAMPP dan phpMyAdmin</b>
 Buka XAMPP Control Lalu Klik `Start` untuk menjalankan MySQL Server. Pastikan web server Apache dan MySQL Server sudah dijalankan.
+
 ![step1](ss/s1.png)<br>
 Setelah itu uji coba gunakan URL :
 ```
 http://localhost/phpmyadmin/
 ```
+
 ![Step2](ss/s2.png)<br>
 
 Membuat Database `latihan1`
