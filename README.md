@@ -24,7 +24,7 @@ Menambahkan Data
 ![Step5](ss/s5.png)<br>
 
 Hasil Penambahan Data
-1[step6](ss/s6.png)<br>
+![step6](ss/s6.png)<br>
 
 <b>Membuat Program CRUD (Create, Read, Update, Delete)</b>
 
