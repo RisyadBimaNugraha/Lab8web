@@ -11,7 +11,7 @@ Setelah itu uji coba gunakan URL :
 ```
 http://localhost/phpmyadmin/
 ```
-
+Hasil Dari http://localhost/phpmyadmin/
 ![Step2](ss/s2.png)<br>
 
 Membuat Database `latihan1`
